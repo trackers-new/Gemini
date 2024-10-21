@@ -1,0 +1,7 @@
+pandas
+streamlit
+python-dotenv
+numpy
+pandas
+pyPDF2
+google.generativeai
